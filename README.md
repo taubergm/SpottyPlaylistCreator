@@ -11,12 +11,12 @@ The following steps are required to create a Spotify playlist using this program
 	note: you will need a spotify premium account to get them
 
 2) set the following OS environment variables using your acquired credentials:
-	SPOTIPY_CLIENT_ID
- 	SPOTIPY_CLIENT_SECRET
-	SPOTIPY_REDIRECT_URI
+	SPOTIPY_CLIENT_ID,
+ 	SPOTIPY_CLIENT_SECRET,
+	SPOTIPY_REDIRECT_URI,
 
 3) Execute "python SpottyPlaylistCreator.py <username> <playlist_name> <input_txt>"
-	eg: python SpottyPlaylistCreator.py taubergm workout playlist.txt
+	eg: "python SpottyPlaylistCreator.py taubergm workout playlist.txt"
 
 4) follow the instructions in the console
 	- navigate to the webpage printed in the console
