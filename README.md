@@ -16,7 +16,7 @@ The following steps are required to create a Spotify playlist using this program
 	SPOTIPY_REDIRECT_URI,
 
 3) Execute "python SpottyPlaylistCreator.py <username> <playlist_name> <input_txt>"
-	eg: "python SpottyPlaylistCreator.py taubergm workout playlist.txt"
+	eg: "python SpottyPlaylistCreator.py taubergm workout ExamplePlaylistText.txt"
 
 4) follow the instructions in the console
 	- navigate to the webpage printed in the console
